@@ -6,4 +6,5 @@ Create a web server that counts words within a file. Count only words that start
 Faculty of Electronics, University of Niš
 Semester: 6  
 Course: System Programming  
-Department: Computer Science and Informatics
+Department: Computer Science and Informatics  
+Team members: Draga Jović, Mila Jović
