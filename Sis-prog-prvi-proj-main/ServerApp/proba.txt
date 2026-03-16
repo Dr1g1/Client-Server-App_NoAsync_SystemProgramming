@@ -1,0 +1,2 @@
+Proba da Vidimo da li ce da Radiako Napravimo
+kao Server/Client posebne Konzolne aplikacije.
